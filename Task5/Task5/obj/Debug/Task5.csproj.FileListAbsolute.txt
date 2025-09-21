@@ -1,0 +1,8 @@
+D:\ITI-Tasks\Task5\Task5\bin\Debug\Task5.exe.config
+D:\ITI-Tasks\Task5\Task5\bin\Debug\Task5.exe
+D:\ITI-Tasks\Task5\Task5\bin\Debug\Task5.pdb
+D:\ITI-Tasks\Task5\Task5\obj\Debug\Task5.csproj.AssemblyReference.cache
+D:\ITI-Tasks\Task5\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+D:\ITI-Tasks\Task5\Task5\obj\Debug\Task5.exe
+D:\ITI-Tasks\Task5\Task5\obj\Debug\Task5.pdb
+D:\ITI-Tasks\Task5\Task5\obj\Debug\Task5.exe.config
