@@ -1,0 +1,8 @@
+D:\ITI-Tasks\LINQ\LINQ\bin\Debug\LINQ.exe.config
+D:\ITI-Tasks\LINQ\LINQ\bin\Debug\LINQ.exe
+D:\ITI-Tasks\LINQ\LINQ\bin\Debug\LINQ.pdb
+D:\ITI-Tasks\LINQ\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+D:\ITI-Tasks\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+D:\ITI-Tasks\LINQ\LINQ\obj\Debug\LINQ.exe
+D:\ITI-Tasks\LINQ\LINQ\obj\Debug\LINQ.pdb
+D:\ITI-Tasks\LINQ\LINQ\obj\Debug\LINQ.exe.config
