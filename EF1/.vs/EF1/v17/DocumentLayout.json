@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI-Tasks\\EF1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8F359B-B452-44C9-A77B-16F3D1340A6B}|EF1\\EF1.csproj|D:\\ITI-Tasks\\EF1\\ef1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A8F359B-B452-44C9-A77B-16F3D1340A6B}|EF1\\EF1.csproj|solutionrelative:ef1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8F359B-B452-44C9-A77B-16F3D1340A6B}|EF1\\EF1.csproj|d:\\iti-tasks\\ef1\\ef1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8F359B-B452-44C9-A77B-16F3D1340A6B}|EF1\\EF1.csproj|solutionrelative:ef1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8F359B-B452-44C9-A77B-16F3D1340A6B}|EF1\\EF1.csproj|d:\\iti-tasks\\ef1\\ef1\\models\\companysdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8F359B-B452-44C9-A77B-16F3D1340A6B}|EF1\\EF1.csproj|solutionrelative:ef1\\models\\companysdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8F359B-B452-44C9-A77B-16F3D1340A6B}|EF1\\EF1.csproj|d:\\iti-tasks\\ef1\\ef1\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8F359B-B452-44C9-A77B-16F3D1340A6B}|EF1\\EF1.csproj|solutionrelative:ef1\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8F359B-B452-44C9-A77B-16F3D1340A6B}|EF1\\EF1.csproj|d:\\iti-tasks\\ef1\\ef1\\employeeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8F359B-B452-44C9-A77B-16F3D1340A6B}|EF1\\EF1.csproj|solutionrelative:ef1\\employeeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8F359B-B452-44C9-A77B-16F3D1340A6B}|EF1\\EF1.csproj|d:\\iti-tasks\\ef1\\ef1\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8F359B-B452-44C9-A77B-16F3D1340A6B}|EF1\\EF1.csproj|solutionrelative:ef1\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeView.cs",
+              "DocumentMoniker": "D:\\ITI-Tasks\\EF1\\EF1\\EmployeeView.cs",
+              "RelativeDocumentMoniker": "EF1\\EmployeeView.cs",
+              "ToolTip": "D:\\ITI-Tasks\\EF1\\EF1\\EmployeeView.cs",
+              "RelativeToolTip": "EF1\\EmployeeView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T17:13:40.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\ITI-Tasks\\EF1\\EF1\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EF1\\EmployeeRepository.cs",
+              "ToolTip": "D:\\ITI-Tasks\\EF1\\EF1\\EmployeeRepository.cs",
+              "RelativeToolTip": "EF1\\EmployeeRepository.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T16:31:49.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\ITI-Tasks\\EF1\\EF1\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EF1\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\ITI-Tasks\\EF1\\EF1\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EF1\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T16:28:17.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompanySdContext.cs",
+              "DocumentMoniker": "D:\\ITI-Tasks\\EF1\\EF1\\Models\\CompanySdContext.cs",
+              "RelativeDocumentMoniker": "EF1\\Models\\CompanySdContext.cs",
+              "ToolTip": "D:\\ITI-Tasks\\EF1\\EF1\\Models\\CompanySdContext.cs",
+              "RelativeToolTip": "EF1\\Models\\CompanySdContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:43:01.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ITI-Tasks\\EF1\\EF1\\Form1.cs",
+              "RelativeDocumentMoniker": "EF1\\Form1.cs",
+              "ToolTip": "D:\\ITI-Tasks\\EF1\\EF1\\Form1.cs",
+              "RelativeToolTip": "EF1\\Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:11:41.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ITI-Tasks\\EF1\\EF1\\Form1.cs",
+              "RelativeDocumentMoniker": "EF1\\Form1.cs",
+              "ToolTip": "D:\\ITI-Tasks\\EF1\\EF1\\Form1.cs [Design]",
+              "RelativeToolTip": "EF1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:08:37.877Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
